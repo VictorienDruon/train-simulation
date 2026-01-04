@@ -1,4 +1,4 @@
-# AI30 Project
+# Train Simulation
 
 ## Setup
 
