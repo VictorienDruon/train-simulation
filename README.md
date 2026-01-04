@@ -1,5 +1,7 @@
 # Train Simulation
 
+Final project for AI30 in A25 at Université de Technologie de Compiègne.
+
 ## Setup
 
 ```bash

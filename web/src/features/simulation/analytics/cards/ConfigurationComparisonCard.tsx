@@ -169,7 +169,7 @@ export const ConfigurationComparisonCard = () => {
   }, [simulationHistory]);
 
   return (
-    <Card className="col-span-2">
+    <Card className="lg:col-span-2">
       <CardHeader>
         <CardTitle>Comparaison des configurations</CardTitle>
         <CardDescription>

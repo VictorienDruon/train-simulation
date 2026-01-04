@@ -34,7 +34,7 @@ export const SimulationControls = () => {
   }
 
   return (
-    <div className="-translate-x-1/2 absolute bottom-4 left-1/2 z-10 flex items-center gap-8 rounded-xl border bg-background/60 px-4 py-2 shadow-lg backdrop-blur-lg">
+    <div className="-translate-x-1/2 absolute bottom-4 left-1/2 z-10 flex max-w-[calc(100%-2rem)] items-center gap-8 rounded-xl border bg-background/60 px-4 py-2 shadow-lg backdrop-blur-lg">
       <ButtonGroup>
         <Button
           onClick={togglePlay}

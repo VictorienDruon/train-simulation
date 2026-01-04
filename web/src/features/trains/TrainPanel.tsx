@@ -16,7 +16,7 @@ export const TrainPanel = () => {
   }
 
   return (
-    <div className="absolute top-4 left-4 z-10 flex max-h-[calc(100vh-2rem)] w-96 flex-col gap-4 rounded-xl border bg-background/60 p-4 shadow-lg backdrop-blur-lg">
+    <div className="absolute top-4 left-4 z-10 flex max-h-[calc(100vh-2rem)] w-96 max-w-[calc(100%-2rem)] flex-col gap-4 rounded-xl border bg-background/60 p-4 shadow-lg backdrop-blur-lg">
       <div className="flex items-center justify-between">
         <h2 className="truncate font-semibold text-lg">{selectedTrainId}</h2>
         <Button variant="ghost" size="icon-sm" onClick={clearSelection}>
