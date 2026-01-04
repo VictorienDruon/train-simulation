@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"golang.go",
+		"biomejs.biome",
+		"bradlc.vscode-tailwindcss",
+		"charliermarsh.ruff"
+	]
+}

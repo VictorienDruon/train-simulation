@@ -1,0 +1,662 @@
+[
+  {
+    "id": "StopArea:OCE87111849",
+    "coordinates": [2.782626, 48.869898]
+  },
+  {
+    "id": "StopArea:OCE87113001",
+    "coordinates": [2.358424, 48.876742]
+  },
+  {
+    "id": "StopArea:OCE87141002",
+    "coordinates": [6.174579, 48.689857]
+  },
+  {
+    "id": "StopArea:OCE87141150",
+    "coordinates": [6.496997, 48.58799]
+  },
+  {
+    "id": "StopArea:OCE87142109",
+    "coordinates": [6.169778, 48.947713]
+  },
+  {
+    "id": "StopArea:OCE87144006",
+    "coordinates": [6.441787, 48.178005]
+  },
+  {
+    "id": "StopArea:OCE87144014",
+    "coordinates": [6.948516, 48.282043]
+  },
+  {
+    "id": "StopArea:OCE87144451",
+    "coordinates": [6.598879, 48.016342]
+  },
+  {
+    "id": "StopArea:OCE87147322",
+    "coordinates": [5.271024, 48.978583]
+  },
+  {
+    "id": "StopArea:OCE87171009",
+    "coordinates": [4.02392, 49.259602]
+  },
+  {
+    "id": "StopArea:OCE87171926",
+    "coordinates": [3.994523, 49.214769]
+  },
+  {
+    "id": "StopArea:OCE87172007",
+    "coordinates": [4.724344, 49.76763]
+  },
+  {
+    "id": "StopArea:OCE87172254",
+    "coordinates": [4.930373, 49.695024]
+  },
+  {
+    "id": "StopArea:OCE87172270",
+    "coordinates": [4.369566, 49.504393]
+  },
+  {
+    "id": "StopArea:OCE87174003",
+    "coordinates": [4.348656, 48.955252]
+  },
+  {
+    "id": "StopArea:OCE87174276",
+    "coordinates": [4.587515, 48.717913]
+  },
+  {
+    "id": "StopArea:OCE87175042",
+    "coordinates": [5.167053, 48.773598]
+  },
+  {
+    "id": "StopArea:OCE87182014",
+    "coordinates": [7.347756, 48.073527]
+  },
+  {
+    "id": "StopArea:OCE87182063",
+    "coordinates": [7.34316, 47.742691]
+  },
+  {
+    "id": "StopArea:OCE87191007",
+    "coordinates": [6.168582, 49.353965]
+  },
+  {
+    "id": "StopArea:OCE87192039",
+    "coordinates": [6.177052, 49.109466]
+  },
+  {
+    "id": "StopArea:OCE87212027",
+    "coordinates": [7.733882, 48.58511]
+  },
+  {
+    "id": "StopArea:OCE87212225",
+    "coordinates": [7.362055, 48.744483]
+  },
+  {
+    "id": "StopArea:OCE87214056",
+    "coordinates": [7.443157, 48.259824]
+  },
+  {
+    "id": "StopArea:OCE87215012",
+    "coordinates": [7.05285, 48.73808]
+  },
+  {
+    "id": "StopArea:OCE87223263",
+    "coordinates": [3.075721, 50.6394]
+  },
+  {
+    "id": "StopArea:OCE87271007",
+    "coordinates": [2.354851, 48.880136]
+  },
+  {
+    "id": "StopArea:OCE87271494",
+    "coordinates": [2.570812, 49.003618]
+  },
+  {
+    "id": "StopArea:OCE87281006",
+    "coordinates": [2.368991, 51.03041]
+  },
+  {
+    "id": "StopArea:OCE87281071",
+    "coordinates": [1.811178, 50.901247]
+  },
+  {
+    "id": "StopArea:OCE87286005",
+    "coordinates": [3.06987, 50.636577]
+  },
+  {
+    "id": "StopArea:OCE87286302",
+    "coordinates": [2.541463, 50.724924]
+  },
+  {
+    "id": "StopArea:OCE87286542",
+    "coordinates": [3.168027, 50.716826]
+  },
+  {
+    "id": "StopArea:OCE87286716",
+    "coordinates": [3.138069, 50.678528]
+  },
+  {
+    "id": "StopArea:OCE87286732",
+    "coordinates": [3.16351, 50.695557]
+  },
+  {
+    "id": "StopArea:OCE87300822",
+    "coordinates": [6.897984, 47.585105]
+  },
+  {
+    "id": "StopArea:OCE87300863",
+    "coordinates": [5.953613, 47.307215]
+  },
+  {
+    "id": "StopArea:OCE87313882",
+    "coordinates": [2.831619, 49.859172]
+  },
+  {
+    "id": "StopArea:OCE87317057",
+    "coordinates": [1.648048, 50.415845]
+  },
+  {
+    "id": "StopArea:OCE87317065",
+    "coordinates": [1.642582, 50.516544]
+  },
+  {
+    "id": "StopArea:OCE87317263",
+    "coordinates": [1.850885, 50.953466]
+  },
+  {
+    "id": "StopArea:OCE87317586",
+    "coordinates": [1.609714, 50.715613]
+  },
+  {
+    "id": "StopArea:OCE87318964",
+    "coordinates": [4.786136, 43.92194]
+  },
+  {
+    "id": "StopArea:OCE87319012",
+    "coordinates": [5.317534, 43.455237]
+  },
+  {
+    "id": "StopArea:OCE87324095",
+    "coordinates": [0.377209, 46.669918]
+  },
+  {
+    "id": "StopArea:OCE87342006",
+    "coordinates": [2.640509, 50.521454]
+  },
+  {
+    "id": "StopArea:OCE87342014",
+    "coordinates": [2.781314, 50.286971]
+  },
+  {
+    "id": "StopArea:OCE87343004",
+    "coordinates": [3.517124, 50.363187]
+  },
+  {
+    "id": "StopArea:OCE87345009",
+    "coordinates": [3.089958, 50.371673]
+  },
+  {
+    "id": "StopArea:OCE87345025",
+    "coordinates": [2.828301, 50.426866]
+  },
+  {
+    "id": "StopArea:OCE87381509",
+    "coordinates": [1.70337, 48.98984]
+  },
+  {
+    "id": "StopArea:OCE87391003",
+    "coordinates": [2.320514, 48.841172]
+  },
+  {
+    "id": "StopArea:OCE87393009",
+    "coordinates": [2.135883, 48.795826]
+  },
+  {
+    "id": "StopArea:OCE87393579",
+    "coordinates": [2.257528, 48.726421]
+  },
+  {
+    "id": "StopArea:OCE87393702",
+    "coordinates": [2.261254, 48.725758]
+  },
+  {
+    "id": "StopArea:OCE87394007",
+    "coordinates": [1.481313, 48.448202]
+  },
+  {
+    "id": "StopArea:OCE87396002",
+    "coordinates": [0.192614, 47.995615]
+  },
+  {
+    "id": "StopArea:OCE87396408",
+    "coordinates": [-0.342, 47.841759]
+  },
+  {
+    "id": "StopArea:OCE87411017",
+    "coordinates": [1.094103, 49.448663]
+  },
+  {
+    "id": "StopArea:OCE87413013",
+    "coordinates": [0.124644, 49.492624]
+  },
+  {
+    "id": "StopArea:OCE87471003",
+    "coordinates": [-1.672744, 48.103517]
+  },
+  {
+    "id": "StopArea:OCE87471300",
+    "coordinates": [-2.08777, 47.652004]
+  },
+  {
+    "id": "StopArea:OCE87471508",
+    "coordinates": [-1.211754, 48.122671]
+  },
+  {
+    "id": "StopArea:OCE87473009",
+    "coordinates": [-2.765, 48.50758]
+  },
+  {
+    "id": "StopArea:OCE87473108",
+    "coordinates": [-2.511546, 48.46606]
+  },
+  {
+    "id": "StopArea:OCE87473181",
+    "coordinates": [-3.466979, 48.606422]
+  },
+  {
+    "id": "StopArea:OCE87473207",
+    "coordinates": [-3.143343, 48.555659]
+  },
+  {
+    "id": "StopArea:OCE87473223",
+    "coordinates": [-3.460353, 48.727638]
+  },
+  {
+    "id": "StopArea:OCE87474007",
+    "coordinates": [-4.480306, 48.38762]
+  },
+  {
+    "id": "StopArea:OCE87474098",
+    "coordinates": [-4.092103, 47.994455]
+  },
+  {
+    "id": "StopArea:OCE87474155",
+    "coordinates": [-3.832702, 47.960224]
+  },
+  {
+    "id": "StopArea:OCE87474239",
+    "coordinates": [-4.256528, 48.453572]
+  },
+  {
+    "id": "StopArea:OCE87474338",
+    "coordinates": [-3.832514, 48.57797]
+  },
+  {
+    "id": "StopArea:OCE87476002",
+    "coordinates": [-3.366221, 47.755597]
+  },
+  {
+    "id": "StopArea:OCE87476200",
+    "coordinates": [-2.999363, 47.680085]
+  },
+  {
+    "id": "StopArea:OCE87476317",
+    "coordinates": [-3.552693, 47.869375]
+  },
+  {
+    "id": "StopArea:OCE87476606",
+    "coordinates": [-2.75245, 47.665169]
+  },
+  {
+    "id": "StopArea:OCE87478073",
+    "coordinates": [-1.750536, 48.54425]
+  },
+  {
+    "id": "StopArea:OCE87478107",
+    "coordinates": [-2.004158, 48.646859]
+  },
+  {
+    "id": "StopArea:OCE87478404",
+    "coordinates": [-0.760929, 48.076255]
+  },
+  {
+    "id": "StopArea:OCE87481002",
+    "coordinates": [-1.542077, 47.217491]
+  },
+  {
+    "id": "StopArea:OCE87481192",
+    "coordinates": [-1.177763, 47.369334]
+  },
+  {
+    "id": "StopArea:OCE87481705",
+    "coordinates": [-2.211079, 47.286489]
+  },
+  {
+    "id": "StopArea:OCE87481747",
+    "coordinates": [-2.344865, 47.27043]
+  },
+  {
+    "id": "StopArea:OCE87481754",
+    "coordinates": [-2.38921, 47.288459]
+  },
+  {
+    "id": "StopArea:OCE87481762",
+    "coordinates": [-2.433126, 47.282504]
+  },
+  {
+    "id": "StopArea:OCE87481788",
+    "coordinates": [-2.50734, 47.289889]
+  },
+  {
+    "id": "StopArea:OCE87484006",
+    "coordinates": [-0.55677, 47.464649]
+  },
+  {
+    "id": "StopArea:OCE87485003",
+    "coordinates": [-1.145853, 46.152705]
+  },
+  {
+    "id": "StopArea:OCE87485227",
+    "coordinates": [-0.762054, 46.113252]
+  },
+  {
+    "id": "StopArea:OCE87485300",
+    "coordinates": [-0.454639, 46.319491]
+  },
+  {
+    "id": "StopArea:OCE87485490",
+    "coordinates": [-0.20132, 46.406482]
+  },
+  {
+    "id": "StopArea:OCE87486019",
+    "coordinates": [-1.43566, 46.672075]
+  },
+  {
+    "id": "StopArea:OCE87486449",
+    "coordinates": [-1.781116, 46.500032]
+  },
+  {
+    "id": "StopArea:OCE87487603",
+    "coordinates": [-0.071403, 47.268994]
+  },
+  {
+    "id": "StopArea:OCE87543017",
+    "coordinates": [1.906629, 47.926801]
+  },
+  {
+    "id": "StopArea:OCE87545244",
+    "coordinates": [2.38267, 48.68917]
+  },
+  {
+    "id": "StopArea:OCE87546192",
+    "coordinates": [2.372679, 48.748112]
+  },
+  {
+    "id": "StopArea:OCE87547000",
+    "coordinates": [2.364891, 48.842285]
+  },
+  {
+    "id": "StopArea:OCE87571000",
+    "coordinates": [0.692831, 47.389866]
+  },
+  {
+    "id": "StopArea:OCE87571216",
+    "coordinates": [1.021143, 47.821937]
+  },
+  {
+    "id": "StopArea:OCE87571240",
+    "coordinates": [0.723539, 47.38614]
+  },
+  {
+    "id": "StopArea:OCE87574004",
+    "coordinates": [1.323759, 47.585449]
+  },
+  {
+    "id": "StopArea:OCE87575001",
+    "coordinates": [0.333136, 46.582232]
+  },
+  {
+    "id": "StopArea:OCE87575142",
+    "coordinates": [0.549279, 46.818594]
+  },
+  {
+    "id": "StopArea:OCE87581009",
+    "coordinates": [-0.556697, 44.825873]
+  },
+  {
+    "id": "StopArea:OCE87583005",
+    "coordinates": [0.164608, 45.653572]
+  },
+  {
+    "id": "StopArea:OCE87584052",
+    "coordinates": [-0.236359, 44.915904]
+  },
+  {
+    "id": "StopArea:OCE87586008",
+    "coordinates": [0.620867, 44.207967]
+  },
+  {
+    "id": "StopArea:OCE87611004",
+    "coordinates": [1.453616, 43.611206]
+  },
+  {
+    "id": "StopArea:OCE87611244",
+    "coordinates": [1.341499, 44.01444]
+  },
+  {
+    "id": "StopArea:OCE87615286",
+    "coordinates": [2.351824, 43.218029]
+  },
+  {
+    "id": "StopArea:OCE87671008",
+    "coordinates": [0.069442, 43.239863]
+  },
+  {
+    "id": "StopArea:OCE87671339",
+    "coordinates": [-0.042186, 43.100429]
+  },
+  {
+    "id": "StopArea:OCE87672006",
+    "coordinates": [-0.369675, 43.291711]
+  },
+  {
+    "id": "StopArea:OCE87672253",
+    "coordinates": [-0.76776, 43.484242]
+  },
+  {
+    "id": "StopArea:OCE87673004",
+    "coordinates": [-1.470368, 43.496793]
+  },
+  {
+    "id": "StopArea:OCE87673202",
+    "coordinates": [-1.050301, 43.720472]
+  },
+  {
+    "id": "StopArea:OCE87673400",
+    "coordinates": [-1.545937, 43.459387]
+  },
+  {
+    "id": "StopArea:OCE87677005",
+    "coordinates": [-1.781724, 43.353132]
+  },
+  {
+    "id": "StopArea:OCE87677120",
+    "coordinates": [-1.661181, 43.385862]
+  },
+  {
+    "id": "StopArea:OCE87686006",
+    "coordinates": [2.373481, 48.844945]
+  },
+  {
+    "id": "StopArea:OCE87688887",
+    "coordinates": [3.924009, 43.595146]
+  },
+  {
+    "id": "StopArea:OCE87694109",
+    "coordinates": [4.49943, 46.765339]
+  },
+  {
+    "id": "StopArea:OCE87703975",
+    "coordinates": [4.507678, 43.816809]
+  },
+  {
+    "id": "StopArea:OCE87713040",
+    "coordinates": [5.027256, 47.323411]
+  },
+  {
+    "id": "StopArea:OCE87713131",
+    "coordinates": [4.336212, 47.618741]
+  },
+  {
+    "id": "StopArea:OCE87713412",
+    "coordinates": [5.48806, 47.09615]
+  },
+  {
+    "id": "StopArea:OCE87713545",
+    "coordinates": [4.848423, 47.023014]
+  },
+  {
+    "id": "StopArea:OCE87718007",
+    "coordinates": [6.021943, 47.247049]
+  },
+  {
+    "id": "StopArea:OCE87722025",
+    "coordinates": [4.825777, 45.748508]
+  },
+  {
+    "id": "StopArea:OCE87723197",
+    "coordinates": [4.859409, 45.760596]
+  },
+  {
+    "id": "StopArea:OCE87725002",
+    "coordinates": [4.843479, 46.781622]
+  },
+  {
+    "id": "StopArea:OCE87725689",
+    "coordinates": [4.824887, 46.302572]
+  },
+  {
+    "id": "StopArea:OCE87725705",
+    "coordinates": [4.778924, 46.282912]
+  },
+  {
+    "id": "StopArea:OCE87726000",
+    "coordinates": [4.399722, 45.443366]
+  },
+  {
+    "id": "StopArea:OCE87741009",
+    "coordinates": [5.919547, 45.571302]
+  },
+  {
+    "id": "StopArea:OCE87741132",
+    "coordinates": [5.909371, 45.688161]
+  },
+  {
+    "id": "StopArea:OCE87742007",
+    "coordinates": [6.659139, 45.193555]
+  },
+  {
+    "id": "StopArea:OCE87742320",
+    "coordinates": [6.354716, 45.277542]
+  },
+  {
+    "id": "StopArea:OCE87746008",
+    "coordinates": [6.121826, 45.902047]
+  },
+  {
+    "id": "StopArea:OCE87747006",
+    "coordinates": [5.714548, 45.191491]
+  },
+  {
+    "id": "StopArea:OCE87751008",
+    "coordinates": [5.380407, 43.302666]
+  },
+  {
+    "id": "StopArea:OCE87753004",
+    "coordinates": [4.999565, 43.580737]
+  },
+  {
+    "id": "StopArea:OCE87753657",
+    "coordinates": [4.632105, 43.684863]
+  },
+  {
+    "id": "StopArea:OCE87755009",
+    "coordinates": [5.929404, 43.128353]
+  },
+  {
+    "id": "StopArea:OCE87755447",
+    "coordinates": [6.482424, 43.455725]
+  },
+  {
+    "id": "StopArea:OCE87755629",
+    "coordinates": [6.124207, 43.108902]
+  },
+  {
+    "id": "StopArea:OCE87756056",
+    "coordinates": [7.261904, 43.704556]
+  },
+  {
+    "id": "StopArea:OCE87757526",
+    "coordinates": [6.769037, 43.423631]
+  },
+  {
+    "id": "StopArea:OCE87757625",
+    "coordinates": [7.019711, 43.553908]
+  },
+  {
+    "id": "StopArea:OCE87757674",
+    "coordinates": [7.119913, 43.585971]
+  },
+  {
+    "id": "StopArea:OCE87761007",
+    "coordinates": [4.893288, 44.928081]
+  },
+  {
+    "id": "StopArea:OCE87762906",
+    "coordinates": [5.074969, 45.721109]
+  },
+  {
+    "id": "StopArea:OCE87763029",
+    "coordinates": [4.978652, 44.991907]
+  },
+  {
+    "id": "StopArea:OCE87764001",
+    "coordinates": [4.744726, 44.558936]
+  },
+  {
+    "id": "StopArea:OCE87765008",
+    "coordinates": [4.805269, 43.941923]
+  },
+  {
+    "id": "StopArea:OCE87765107",
+    "coordinates": [4.820058, 44.137485]
+  },
+  {
+    "id": "StopArea:OCE87773002",
+    "coordinates": [3.880674, 43.604738]
+  },
+  {
+    "id": "StopArea:OCE87773200",
+    "coordinates": [3.696571, 43.412641]
+  },
+  {
+    "id": "StopArea:OCE87775007",
+    "coordinates": [4.365872, 43.832313]
+  },
+  {
+    "id": "StopArea:OCE87781005",
+    "coordinates": [3.218895, 43.336295]
+  },
+  {
+    "id": "StopArea:OCE87781104",
+    "coordinates": [3.005667, 43.190618]
+  },
+  {
+    "id": "StopArea:OCE87781278",
+    "coordinates": [3.466203, 43.31728]
+  },
+  {
+    "id": "StopArea:OCE87784009",
+    "coordinates": [2.879355, 42.696096]
+  }
+]
