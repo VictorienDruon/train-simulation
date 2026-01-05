@@ -52,6 +52,7 @@ export const StartDialog = () => {
                 <SelectItem value="intermediate">Intermédiaire</SelectItem>
                 <SelectItem value="crazy">Crazy</SelectItem>
                 <SelectItem value="very_crazy">Very Crazy</SelectItem>
+                <SelectItem value="soigneux">Soigneux</SelectItem>
               </SelectContent>
             </Select>
           </Field>

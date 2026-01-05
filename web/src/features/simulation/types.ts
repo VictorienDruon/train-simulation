@@ -2,7 +2,12 @@ import type { Segment } from "@/features/segments";
 import type { Station } from "@/features/stations";
 import type { Train } from "@/features/trains";
 
-export type DriverBehavior = "eco" | "intermediate" | "crazy" | "very_crazy";
+export type DriverBehavior =
+  | "eco"
+  | "intermediate"
+  | "crazy"
+  | "very_crazy"
+  | "soigneux";
 
 export type StationStrategy =
   | "no_sort"

@@ -45,6 +45,7 @@ function formatConfigurationName(
     intermediate: "Intermédiaire",
     crazy: "Crazy",
     very_crazy: "Very Crazy",
+    soigneux: "Soigneux",
   };
   const strategyLabels: Record<StationStrategy, string> = {
     no_sort: "Aucun tri",

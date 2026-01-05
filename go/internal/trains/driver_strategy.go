@@ -54,6 +54,16 @@ func (d VeryCrazyDriver) GetCommand(delay time.Duration) DriverCommand {
 	}
 }
 
+type SoigneuxDriver struct{}
+
+func (d SoigneuxDriver) GetCommand(delay time.Duration) DriverCommand {
+	return DriverCommand{
+		DesiredSpeed: 1.0,
+		DesiredAccel: 0.6,
+		DesiredDecel: 0.6,
+	}
+}
+
 func NewDriverBehavior(name string) DriverBehavior {
 	switch name {
 	case "intermediate":
@@ -62,6 +72,8 @@ func NewDriverBehavior(name string) DriverBehavior {
 		return CrazyDriver{}
 	case "very_crazy":
 		return VeryCrazyDriver{}
+	case "soigneux":
+		return SoigneuxDriver{}
 	default:
 		return EcoDriver{}
 	}
